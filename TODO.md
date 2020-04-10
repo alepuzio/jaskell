@@ -2,4 +2,7 @@
 
  * run the project
  * create verify.bat
- * create the unit test
+ * run the unit test
+ * explicate the readme
+ * study haskell
+
